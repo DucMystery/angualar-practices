@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "nameCard"
+    }
+  },
+  "defaultProject": "nameCard",
+  "cli": {
+    "analytics": "0d85fea9-55aa-4d58-82e6-fe9ec76299df"
+  }
 }
